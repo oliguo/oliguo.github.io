@@ -98,10 +98,119 @@
 | Sample Words        | Meaning             |
 | ------------------- | ------------------- |
 | transit abstract    | 中轉貨物摘要        |
-| abstract of posting | 過帳分類表          |
+| abstract of posting | 過賬分類表          |
 | make an abstract of | 把...的要點摘錄下來 |
 
 | Sentences                                         | Meaning                |
 | ------------------------------------------------- | ---------------------- |
 | The secretary made an abstract of speech.         | 秘書將演說做成了摘要。 |
 | An abstract is included at the top of the report. | 報告書前加了摘要。     |
+
+## acceptor
+
+| Type | Meaning        |
+| ---- | -------------- |
+| n.   | 承兌人，受票人 |
+
+| Sentences                                        | Meaning                  |
+| ------------------------------------------------ | ------------------------ |
+| The bill of exchange was signed by the acceptor. | 匯票已經由承兌人簽了字。 |
+
+## access
+
+| Type | Meaning                          |
+| ---- | -------------------------------- |
+| n.   | 接近(或進入)的機會，享用權       |
+| n.   | 市場銷路                         |
+| n.   | 進入市場                         |
+| v.   | 使用                             |
+| v.   | 獲取，使用科技手段取得(貨物或信) |
+
+| Sample Words     | Meaning                  |
+| ---------------- | ------------------------ |
+| give access to   | 接見；准許出入           |
+| access to market | 進入市場的機會；進入市場 |
+
+| Sentences                             | Meaning                  |
+| ------------------------------------- | ------------------------ |
+| He has access to classified material. | 他有權使用已歸類的材料。 |
+
+## accommodation
+
+| Type | Meaning |
+| ---- | ------- |
+| n.   | 住宿    |
+| n.   | 貸款    |
+| n.   | 設施    |
+
+| Sample Words                  | Meaning        |
+| ----------------------------- | -------------- |
+| book accommodation at a hotel | 向旅館預定房間 |
+| luggage accommodation         | 行李艙         |
+| accommodation address         | 臨時通信地址   |
+
+| Sentences                                                          | Meaning                              |
+| ------------------------------------------------------------------ | ------------------------------------ |
+| There traveling businessmen found accommodation at moderate terms. | 旅遊的商人感到那裡的膳宿費是公道的。 |
+| Please write to my accommodation address.                          | 請把信寄到我的臨時通信地址。         |
+
+## account
+
+| Type  | Meaning                          |
+| ----- | -------------------------------- |
+| n.    | 賬戶，會計賬目                   |
+| n.    | 利益，優勢                       |
+| n.    | 客戶，指有著商業或信譽聯繫的顧客 |
+| [pl.] | 往來賬目                         |
+
+| Sample Words               | Meaning                                   |
+| -------------------------- | ----------------------------------------- |
+| ask an account             |                                           |
+| balance accounts           | 以...結清賬目；(跟某人)算賬，(向某人)報復 |
+| cook / doctor the accounts | [口]造假賬                                |
+| on account(on credit)      | 以賒欠方式                                |
+| an open account            | 來往賬目，為結算賬目                      |
+| cast accounts              | 計算，算賬                                |
+| for account of             | 為...代理                                 |
+| account payable            | 應付賬款                                  |
+| account receivable         | 應收賬款                                  |
+| account executive          | (廣告公司)客戶經理                        |
+| account for                | 解釋，說明                                |
+
+| Sentences                                                           | Meaning                              |
+| ------------------------------------------------------------------- | ------------------------------------ |
+| He paid the money into his bank account.                            | 他把錢存在他的銀行賬戶上。           |
+| Please charge it to my account.                                     | 請記入我的賬戶。                     |
+| The salesman was visiting one of his most important accounts.       | 推銷員當時正在拜訪一個主要客戶。     |
+| All the accounts of the firm were certified as correct.             | 公司所有賬目被證明正確無誤。         |
+| I want you to account for each sum of the money you spent.          | 我要你說明你所花掉的每一筆錢的用途。 |
+| They were required to account for all expenses on a buissness trip. | 他們被要求說明出差的各項開支。       |
+
+## accountancy
+
+| Type | Meaning  |
+| ---- | -------- |
+| n.   | 會計工作 |
+| n.   | 會計職務 |
+
+| Sample Words                     | Meaning      |
+| -------------------------------- | ------------ |
+| business accountancy             | 商業會計     |
+| economic development accountancy | 經濟開展會計 |
+
+## accountant
+
+| Type | Meaning              |
+| ---- | -------------------- |
+| n.   | 會計，會計師，會計員 |
+
+| Sample Words                | Meaning                  |
+| --------------------------- | ------------------------ |
+| chartered public accountant | 註冊會計師，特許會計師   |
+| in-charge accountant        | 主管會計，會計主管員     |
+| non-business accountant     | 非商業會計               |
+| office accountant           | 總會計，覆核員           |
+| private accountant          | 專任會計人員，私用會計師 |
+| professional accountant     | 會計師，專業會計師       |
+| public accountant           | 會計師，公眾會計師       |
+| senior accountant           | 主任(高級)會計師         |
