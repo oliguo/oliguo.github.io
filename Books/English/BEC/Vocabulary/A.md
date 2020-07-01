@@ -214,3 +214,124 @@
 | professional accountant     | 會計師，專業會計師       |
 | public accountant           | 會計師，公眾會計師       |
 | senior accountant           | 主任(高級)會計師         |
+
+## accrual
+
+| Type | Meaning    |
+| ---- | ---------- |
+| n.   | 增值       |
+| n.   | 獲利，利息 |
+| n.   | 自然增長   |
+
+| Sample Words            | Meaning  |
+| ----------------------- | -------- |
+| the accrual of interest | 利息積累 |
+
+| Sentences                                                                | Meaning                      |
+| ------------------------------------------------------------------------ | ---------------------------- |
+| Interest will get accrurals if you keep your money in a savings account. | 把錢存在儲蓄賬戶裡就會生息。 |
+| Accrual has been allowed for.                                            | 自然增長已與以考慮。         |
+
+## accumulate
+
+| Type | Meaning    |
+| ---- | ---------- |
+| v.   | 積累，累積 |
+
+| Sample Words          | Meaning            |
+| --------------------- | ------------------ |
+| accumulated dividends | 累積股利           |
+| accumulated profit    | 累積贏利；滾存利潤 |
+
+| Sentences                                                                       | Meaning                            |
+| ------------------------------------------------------------------------------- | ---------------------------------- |
+| My savings are accumulating interest.                                           | 我的儲蓄在累積利息。               |
+| The Accounts Department calculated losses accumulated over the past six months. | 財務部計算了過去六個月的累積虧損。 |
+
+## achieve
+
+| Type | Meaning    |
+| ---- | ---------- |
+| v.   | 獲得或達到 |
+| v.   | 實現，完成 |
+
+| Sample Words          | Meaning  |
+| --------------------- | -------- |
+| achieve one's purpose | 達到目的 |
+| achieve success       | 獲得成功 |
+
+| Sentences                                         | Meaning                                |
+| ------------------------------------------------- | -------------------------------------- |
+| The company has achieved all its goals this year. | 這家公司今年已經實現了所有的畚斗目標。 |
+
+## acknowledge
+
+| Type | Meaning          |
+| ---- | ---------------- |
+| v.   | 承認，公認，公證 |
+| v.   | 感謝             |
+| v.   | 確認(表示收到)   |
+
+| Sample Words                          | Meaning                          |
+| ------------------------------------- | -------------------------------- |
+| acknowledge a deed                    | 公證一項契約                     |
+| acknowledge (the receipt of) a letter | 表示收到來信                     |
+| acknowledge the corn                  | [美俚]承認為事實，認輸，甘拜下風 |
+| acknowledge a favor                   | 答謝所受到的關照                 |
+
+| Sentences                                             | Meaning                      |
+| ----------------------------------------------------- | ---------------------------- |
+| He acknowledged that the purchase had been a mistake. | 他承認這次購買是個錯誤之舉。 |
+| They have acknowledged receipt of the letter.         | 他們已確認受到函件。         |
+
+## acknowledgement
+
+| Type | Meaning  |
+| ---- | -------- |
+| n.   | 確認函件 |
+
+| Sample Words            | Meaning    |
+| ----------------------- | ---------- |
+| acknowledgement of debt | 債務確認書 |
+
+| Sentences                                              | Meaning                            |
+| ------------------------------------------------------ | ---------------------------------- |
+| I didn't receive an acknowledgement of my application. | 我沒有收到關於我的申請書的確認信。 |
+
+## acquire
+
+| Type | Meaning          |
+| ---- | ---------------- |
+| v.   | 獲得，取得       |
+| v.   | 購入，取得所有權 |
+
+| Sample Words     | Meaning                  |
+| ---------------- | ------------------------ |
+| acquired surplus | 額外收益(非來自日常業務) |
+
+| Sentences                                                       | Meaning                                      |
+| --------------------------------------------------------------- | -------------------------------------------- |
+| It is out of necessity to acquire a good knowledge of business. | 學好商務知識十分必要。                       |
+| Madison plc. is hoping to acquire Rosewall Holdings.            | 麥迪遜公共有限公司希望收購羅斯華爾控股公司。 |
+| We seem to be acquiring a reputation for efficiency.            | 看來我們正逐漸贏得高效率的聲譽。             |
+
+## acquisition
+
+| Type | Meaning            |
+| ---- | ------------------ |
+| n.   | 收購               |
+| n.   | 被收購的公司或股份 |
+
+| Sample Words                             | Meaning                    |
+| ---------------------------------------- | -------------------------- |
+| cross-border acquisition                 | 國外收益                   |
+| lump-sum acquisition                     | 總價採購                   |
+| non-cash acquisition of subsidiary stock | 以非現金資產取得子公司股本 |
+| real estate acquisition                  | 不動產購置                 |
+| stock acquisition                        | 股票購置                   |
+
+| Sentences                                                            | Meaning                                      |
+| -------------------------------------------------------------------- | -------------------------------------------- |
+| The acquisition of wealth usually takes time.                        | 獲取財富總需要時日。                         |
+| The recession forced Fitzroy to sell some of his recent acquistions. | 經濟衰退迫使菲茨羅伊出售部分最近收購的項目。 |
+| He is a valuable acquisition to the team.                            | 他是隊中一個不可多得的隊員。                 |
