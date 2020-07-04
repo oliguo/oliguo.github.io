@@ -335,3 +335,104 @@
 | The acquisition of wealth usually takes time.                        | 獲取財富總需要時日。                         |
 | The recession forced Fitzroy to sell some of his recent acquistions. | 經濟衰退迫使菲茨羅伊出售部分最近收購的項目。 |
 | He is a valuable acquisition to the team.                            | 他是隊中一個不可多得的隊員。                 |
+
+## across-the-board
+
+| Type      | Meaning    |
+| --------- | ---------- |
+| adj./adv. | 全體，全面 |
+
+| Sentences                                                    | Meaning                   |
+| ------------------------------------------------------------ | ------------------------- |
+| The drop in sales applies across-the-board.                  | 銷售額全面下降。          |
+| They have decided to increase prices by 4% across-the-board. | 他們決定全面提高價格 4%。 |
+
+## acting
+
+| Type | Meaning |
+| ---- | ------- |
+| adj. | 代理的  |
+
+| Sample Words       | Meaning  |
+| ------------------ | -------- |
+| the acting manager | 代理經理 |
+
+## active
+
+| Type | Meaning |
+| ---- | ------- |
+| adj. | 活躍的  |
+| adj. | 流通的  |
+
+| Sample Words   | Meaning                            |
+| -------------- | ---------------------------------- |
+| active capital | 活動資本                           |
+| active market  | 交易頻繁的市場                     |
+| active money   | 流通的貨幣(相對於銀行賬戶中的貨幣) |
+
+| Sentences                                             | Meaning                        |
+| ----------------------------------------------------- | ------------------------------ |
+| The recession has reduced the amount of active money. | 經濟衰退已使流通中的貨幣減少。 |
+
+## activty
+
+| Type  | Meaning            |
+| ----- | ------------------ |
+| n.    | 業務類型           |
+| n.    | 工作，業務具體活動 |
+| [pl.] | 領域               |
+| [pl.] | 活動範圍           |
+
+| Sample Words               | Meaning                  |
+| -------------------------- | ------------------------ |
+| auxilary activity          | 附屬業務                 |
+| financing-activities       | 財務活動                 |
+| contributing cost activity | 分成成本活動             |
+| occupational activities    | 職業性活動               |
+| operation activity         | 維護，保養；(設備的)運行 |
+
+## actual
+
+| Type | Meaning                |
+| ---- | ---------------------- |
+| adj. | 真實的，實際的，確實的 |
+
+| Sample Words                  | Meaning          |
+| ----------------------------- | ---------------- |
+| actual loss                   | 實際損失         |
+| in actual business activities | 在實際商務活動中 |
+| the actual state of affairs   | 目前的形勢       |
+
+| Sentences                                                       | Meaning                              |
+| --------------------------------------------------------------- | ------------------------------------ |
+| The actual cost of repairs was a lot less than we had expected. | 實際的修理費用比我們預期的要低得多。 |
+
+## actuals
+
+| Type | Meaning                |
+| ---- | ---------------------- |
+| n.   | 現貨，實貨(相對於期貨) |
+| n.   | 實際數字               |
+
+| Sentences                                       | Meaning                  |
+| ----------------------------------------------- | ------------------------ |
+| These are the actuals for last year's turnover. | 這些是去年的實際營業額。 |
+
+## adapt
+
+| Type | Meaning    |
+| ---- | ---------- |
+| v.   | 修改，改編 |
+| v.   | 改裝       |
+| v.   | 適應       |
+
+| Sample Words | Meaning               |
+| ------------ | --------------------- |
+| adapt for    | 使適合於，為...改編   |
+| adapt from   | 根據...改編           |
+| adapt to     | 使某事物適應或適合... |
+
+| Sentences                                                                    | Meaning                                                              |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Here is a letter adapted from Business, Philadelphia Bulletin, March 9,1973. | 這裡摘登一封回信，刊登在 1973 年 3 月 9 日《費城日報》的“商務專欄”。 |
+
