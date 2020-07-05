@@ -436,3 +436,35 @@
 | ---------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | Here is a letter adapted from Business, Philadelphia Bulletin, March 9,1973. | 這裡摘登一封回信，刊登在 1973 年 3 月 9 日《費城日報》的“商務專欄”。 |
 
+## adjourn
+
+| Type | Meaning              |
+| ---- | -------------------- |
+| v.   | (將會議、審訊等)延期 |
+| v.   | 休會                 |
+
+| Sentences                                                                          | Meaning                              |
+| ---------------------------------------------------------------------------------- | ------------------------------------ |
+| Te chairman adjourned the meeting until the following day.                         | 主席宣布休會，明天復會。             |
+| The conference was adjourned to allow the participants to contact their companies. | 會議暫停，以便與會者和各自公司聯繫。 |
+
+## adjust
+
+| Type | Meaning          |
+| ---- | ---------------- |
+| v.   | 調節             |
+| v.   | 修改             |
+| v.   | 核算(盈虧)，精算 |
+
+| Sample Words        | Meaning  |
+| ------------------- | -------- |
+| adjust the accounts | 清理賬目 |
+| adjust the losses   | 評定損失 |
+| adjust the errors   | 校正誤差 |
+
+| Sentences                                                                    | Meaning                                |
+| ---------------------------------------------------------------------------- | -------------------------------------- |
+| He adjusted himself very quickly to the business environment of the country. | 他使自己很快適應了這個國家的商業環境。 |
+| The sales figures have been adjusted slightly.                               | 銷售數字已稍作修正。                   |
+| The claim is being adjusted.                                                 | 索賠金額正在理算中。                   |
+
