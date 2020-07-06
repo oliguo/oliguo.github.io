@@ -468,3 +468,48 @@
 | The sales figures have been adjusted slightly.                               | 銷售數字已稍作修正。                   |
 | The claim is being adjusted.                                                 | 索賠金額正在理算中。                   |
 
+## ad man
+
+| Type | Meaning          |
+| ---- | ---------------- |
+| n.   | 廣告經理(非正式) |
+
+| Sentences                                            | Meaning                          |
+| ---------------------------------------------------- | -------------------------------- |
+| Johnson works as an ad man for a television company. | 約翰遜任一家電視公司的廣告經理。 |
+
+## administration
+
+| Type | Meaning                    |
+| ---- | -------------------------- |
+| n.   | (公司或商業活動的)行政管理 |
+
+| Sample Words                          | Meaning        |
+| ------------------------------------- | -------------- |
+| under somebody's administration       | 在某人的管理下 |
+| during the administration of somebody | 在某人的任期內 |
+| economic planning administration      | 經濟計劃管理   |
+| fiscal administration                 | 財政管理       |
+| personal administration               | 勞務管理       |
+| administration of the fund            | 資金管理       |
+
+| Sentences                                                                 | Meaning                                |
+| ------------------------------------------------------------------------- | -------------------------------------- |
+| We must reduce the amount of time and money spent on administration.      | 我們必須減少用於行政管理的時間和金錢。 |
+| The administration of employee's expense accounts is very time-consuming. | 僱員開支賬目管理耗費的時間很多。       |
+
+## adopt
+
+| Type | Meaning    |
+| ---- | ---------- |
+| v.   | 採納，批准 |
+
+| Sample Words          | Meaning    |
+| --------------------- | ---------- |
+| adopt a new technique | 採用新技術 |
+| adopt a resolution    | 決議       |
+| adopt a new idea      | 採納新意見 |
+
+| Sentences                                                               | Meaning                           |
+| ----------------------------------------------------------------------- | --------------------------------- |
+| The resolution was adopted by a vote of 180 in favour to 10 against it. | 決議案以 180 票對 10 票獲得通過。 |
