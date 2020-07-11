@@ -513,3 +513,57 @@
 | Sentences                                                               | Meaning                           |
 | ----------------------------------------------------------------------- | --------------------------------- |
 | The resolution was adopted by a vote of 180 in favour to 10 against it. | 決議案以 180 票對 10 票獲得通過。 |
+
+## adoption
+
+| Type | Meaning    |
+| ---- | ---------- |
+| n.   | 採納，採用 |
+| n.   | 選用新產品 |
+
+| Sentences                                                       | Meaning                                  |
+| --------------------------------------------------------------- | ---------------------------------------- |
+| At the meeting they discussed the proposals up for adoption.    | 他們在會上討論即將實行的各項建議。       |
+| We have had a number of adoptions in most of our major markets. | 大多數主要市場都有不少人選用我們的產品。 |
+
+## advance
+
+| Type | Meaning      |
+| ---- | ------------ |
+| n.   | 預付款，墊款 |
+| v.   | 提高，增加   |
+| v.   | 預付         |
+
+| Sample Words         | Meaning      |
+| -------------------- | ------------ |
+| in advance           | 提前         |
+| advance bill         | 預付票據     |
+| all-out advance      | 市價全面上漲 |
+| bank advances        | 銀行貸(出)款 |
+| price advance        | 漲價，提價   |
+| advance by overdraft | 透支         |
+
+| Sentences                           | Meaning                 |
+| ----------------------------------- | ----------------------- |
+| I asked for an advance on my wages. | 我要求預付工資。        |
+| Shares advanced today.              | 今天股價上漲。          |
+| Can you advance me \$100?           | 你能預付我 100 美元嗎？ |
+
+## advertise
+
+| Type | Meaning    |
+| ---- | ---------- |
+| v.   | 公布，通告 |
+| v.   | 做廣告     |
+
+| Sample Words  | Meaning                       |
+| ------------- | ----------------------------- |
+| advertise for | 登...廣告；登招請(待聘等)廣告 |
+
+| Sentences                                   | Meaning                    |
+| ------------------------------------------- | -------------------------- |
+| The company advertised for a new secretary. | 公司登廣告招聘一名新秘書。 |
+| The new sales job was advertised this week. | 本週做了招聘銷售員的廣告。 |
+| I advertised him of my plans.               | 我把我的計劃通知了他。     |
+| We advertised through the press.            | 我們通過報紙宣傳。         |
+
